@@ -10,3 +10,8 @@ This program is written in C# and can be used to display how much battery time y
 
 
 It will appear on most games and full screen apps. Howver, it may not work on some. 
+
+You can download the application and run it directly that way or you can compile the code with. 
+```
+csc /target:winexe screenoverlay.cs
+```
